@@ -9,3 +9,5 @@ gem 'minitest'
 gem 'rake'
 gem 'rubocop', '~> 1.25.1'
 gem 'mocha'
+
+gem 'redis-cluster-client', git: 'https://github.com/matthewshafer/redis-cluster-client', branch: 'ruby_25_26'
